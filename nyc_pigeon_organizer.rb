@@ -4,7 +4,7 @@ def nyc_pigeon_organizer(data)
 
 pigeon_name_data = {}
 data.each do |key, value|
-  binding.pry
+  key.each do |
 end
 
 end
