@@ -7,7 +7,7 @@ data.each do |key, value|
   key.each do |color, name|
     
 end
-
+end
 end
 
 
