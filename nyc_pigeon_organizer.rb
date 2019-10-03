@@ -1,13 +1,8 @@
 require 'pry'
 
 def nyc_pigeon_organizer(data)
-
-pigeon_name_data = {}
-data.each do |name|
-  
-    
-end
-end
+  data.each do |key, value|
+    value.each do |new_key, name|
 end
 
 
